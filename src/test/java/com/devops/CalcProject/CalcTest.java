@@ -10,7 +10,7 @@ public class CalcTest {
 	@Test
 	public void testValidAdddition(){
 		int result = CalcMain.addition(4,6);
-		assertEquals(result,10);			
+		assertEquals(result,15);			
 	}
     
 	@Test
